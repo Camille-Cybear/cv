@@ -1,4 +1,4 @@
-<img src="https://github.com/Camille-Cybear/cv/blob/main/Image-cartoon-camille-CV.png" width="200" height="200"/>
+![Camille](https://github.com/Camille-Cybear/cv/blob/main/Image-cartoon-camille-CV.png)
 
 # **Camille Bonnefoy**
 
@@ -58,6 +58,7 @@ Accompagnement des clients agence au niveau national.
 * Curiosité informatique : OSINT, Undescore/Micode, HackinGeek…
 * Installation sur mon VPS d’outils open source (Kuma, n8n, SpiderFoot, SearXNG, Tailscale..) avec Docker compose et Caddyfile SearXNG
 * Actuellement conception d’un Cluster à l’aide de 3 Raspberry pi 5 + switch + NAS
+
 
 
 
